@@ -1,0 +1,20 @@
+{
+  "message":{
+    "Action":"deleteFile",
+    "ActionId":"[(${actionId})]",
+    "BusinessOperationCode":"987654321",
+    "BusinessOperationName":"Delete file",
+    "CorrelationId":"[(${CorrelationId})]",
+    "Environment":"[(${Environment})]",
+    "Message":"Completed",
+    "Node":"[(${Node})]",
+    "System":"[(${System})]",
+    "ext":{
+      "IpAddress":"111.222.333.444",
+      "Login":"testLogin",
+      "Document":"45624564-2342345-dgsdg-345345",
+      "DocumentName":"Текстовое сообщение 1",
+      "DocumentType":"Текстовое сообщение 2"
+    }    },
+  "severity":"INFO"
+}
