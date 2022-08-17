@@ -18,9 +18,9 @@ import java.util.Map;
 import java.util.concurrent.ThreadLocalRandom;
 
 @RestController
-public class myController {
+public class myRestController {
 
-    private static final Logger LOGGER = LoggerFactory.getLogger(myController.class);
+    private static final Logger LOGGER = LoggerFactory.getLogger(myRestController.class);
 
     /*Input JSON (Sample for Postman):
     {
